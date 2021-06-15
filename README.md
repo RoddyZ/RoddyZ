@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoddyZ
-- 👀 I’m interested in software developing
-- 🌱 I’m currently learning ASP. NET CORE, Blazor, Xamarin, Python, Web development, JavaScript and Networking.
+- 👀 I’m interested in software developing, Back-end developers and DevOps
+- 🌱 I’m currently learning ASP. NET CORE, Blazor, Xamarin, Python, Web development, JavaScript, Linux Servers, scripting and Networking.
 
 <!---
 RoddyZ/RoddyZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
