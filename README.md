@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RoddyZ
-- 👀 I’m interested in software developing, Back-end developers and DevOps
+- 👀 I’m interested in software developing, Back-end developing and DevOps
 - 🌱 I’m currently learning ASP. NET CORE, Blazor, Xamarin, Python, Web development, JavaScript, Linux Servers, scripting and Networking.
 
 <!---
